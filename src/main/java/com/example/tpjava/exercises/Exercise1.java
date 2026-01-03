@@ -12,7 +12,7 @@ public class Exercise1 {
         System.out.print("Enter the number of students: ");
         int n = scanner.nextInt();
 
-        // Create grades array
+
         double[] grades = new double[n];
 
 
