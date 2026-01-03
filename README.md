@@ -51,8 +51,7 @@ Menu interactif permettant :
 - Comptage des occurrences de chaque lettre
 - Analyse insensible à la casse
 - Affichage des résultats par ordre alphabétique
-- 
-<img width="457" height="681" alt="image" src="https://github.com/user-attachments/assets/a76372fe-d582-4d83-a336-5dd58c7c3786" />
+<img width="983" height="603" alt="image" src="https://github.com/user-attachments/assets/3ee3682b-76c9-4ead-b2a8-bc97bd6c2e95" />
 
 ---
 
