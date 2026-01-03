@@ -75,7 +75,7 @@ public class Exercise3 {
 
         String[] words = text.trim().split("\\s+");
 
-        // If string is only spaces, words array will have one empty element
+        
         int wordCount = (text.trim().isEmpty()) ? 0 : words.length;
 
         System.out.println("Number of words: " + wordCount);
